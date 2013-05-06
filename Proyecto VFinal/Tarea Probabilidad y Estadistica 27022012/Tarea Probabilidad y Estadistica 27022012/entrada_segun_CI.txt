@@ -1,0 +1,34 @@
+CanCor (Cantidad de corridas)
+100 
+LonCor (Duracion de cada corrida en horas de tiempo simulado)
+24.0
+LonCal (Duracion del periodo de calentamiento en horas de tiempo simulado)
+6.0  
+TasGru (Tasa de Llegadas en grupos/minutos)
+9.5
+MedGru (Media del tamanho de los grupos en pasajeros)                       
+3.5	
+PorTor (% de los pasajeros que llegan con boleto y van directo a los torniquetes)
+55.0
+PorTaq (% de los pasajeros que van a taquilla para adquirir boleto)
+15.0
+PorMaq (% de los pasajeros que van a maquina expendedora para adquirir boleto)
+30.0
+CanTor (Cantidad de torniquetes disponibles)  
+4
+CanTaq (Cantidad de taquillas disponibles)  
+3
+CanMaq (Cantidad de maquinas disponibles)  
+5
+MinDes (Duracion minima de un desplazamiento de un pasajero en minutos)
+0.2
+ModaDes (Duracion modal de un desplazamiento de un pasajero en minutos)
+0.25
+MaxDes (Duracion maxima de un desplazamiento de un pasajero en minutos)
+0.3    
+TSerTor (Media del tiempo de servicio de un pasajero en el torniquete en minutos)
+0.12		
+TSerTaq (Media del tiempo de servicio de un pasajero en la taquilla en minutos)
+0.3
+TSerMaq (Media del tiempo de servicio de un pasajero en la maquina en minutos)
+0.55

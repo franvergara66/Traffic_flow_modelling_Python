@@ -1,0 +1,12 @@
+M celdas (longitud de la via):
+400
+N vehiculos en la via:
+80
+VMax Velocidad maxima permitida (celdas/seg):
+5
+p probabilidad de frenar para cada vehiculo en cada instante de tiempo:
+0.05
+TS seg tiempo a simular (duracion de la corrida):
+4000
+DurTraza seg tiempo que dura la traza:
+600

@@ -1,12 +1,8 @@
 # -*- coding: utf-8 -*-
 from __future__ import division
-#######################################
-#                                     #
-# Probabilidad y Estadistica          #
-# Humberto José Ojeda Malavé          #
-# C.I: 20.185.583 (Adrián Bottini C2) #
+     #
+
 # Francisco Vergara                   #
-# C.I: 17389551 (José Sosa C1)        #
 #                                     #
 #  Progamando en Python 2.7.3         #
 #######################################
